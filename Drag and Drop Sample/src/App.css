@@ -1,0 +1,28 @@
+.dragAndDropContainer {
+    background-color: white;
+    padding: 25px;
+}
+
+.dragAndDropArea {
+  background-color: #F5F5F5;
+  border: 2px solid darkgray;
+  border-radius: 8px;
+  height: 90vh;
+}
+
+.info { 
+  left: 48%;
+  position: fixed;
+  top:45%;
+  transform: translate(-50%, -50%);
+}
+
+.dragText {
+  color: #333;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.content {
+  padding: 10px;
+}
